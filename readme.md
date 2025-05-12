@@ -33,10 +33,10 @@
 
 ## Contacto
 
-- **LinkedIn:** [Oscar Eduardo Ortiz Pinzon](https://www.linkedin.com/in/oscar-eduardo-ortiz-pinzon)
-- **Página web:** [Oscar Ortiz](https://oscar-ortiz.example.com) <!-- reemplaza con tu URL real -->
+- **LinkedIn:** [Oscar Eduardo Ortiz Pinzon]([https://www.linkedin.com/in/](https://www.linkedin.com/in/oscardo2000/))
+- **Página web:** [Oscar Ortiz](https://oscardo.github.io/) <!-- reemplaza con tu URL real -->
 - **Correo electrónico:** [oscardo2000@gmail.com](mailto:oscardo2000@gmail.com)
-- **Teléfono:** [Llamar al: +57 300 464 2976](tel:+573004642976)
+- **Teléfono:** [Llamar al: +57 300 464 XXXX](tel:+573004642976)
 - **WhatsApp:** [Escríbeme por WhatsApp](https://wa.me/573004642976)
 
 
